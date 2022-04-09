@@ -1,5 +1,3 @@
-![DEPRECATED](deprecated.png)
-
 # Solana PHP SDK
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/tightenco/solana-php-sdk.svg?style=flat-square)](https://packagist.org/packages/tightenco/solana-php-sdk)
